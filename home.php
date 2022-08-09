@@ -79,7 +79,7 @@ include 'config.php';
                             <div class="small-box bg-info">
                                 <div class="inner">
                                     <h3><?php echo $data['total']; ?></h3>
-                                    <p>Jumlah Semua Pasien</p>
+                                    <p>Jumlah Semuaa Pasien</p>
                                 </div>
                                 <div class="icon">
                                     <i class="fa fa-wheelchair"></i>
